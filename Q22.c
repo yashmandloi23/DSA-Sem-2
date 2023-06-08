@@ -1,3 +1,4 @@
+// WAP to delete the node in single link list at first position and display it
 #include <stdio.h>
 #include <stdlib.h>
 
