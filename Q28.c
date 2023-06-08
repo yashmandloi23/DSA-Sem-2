@@ -1,3 +1,4 @@
+// WAP which is menu driven and do multiple time push and pop operation onto stack , also write display function for showing stack contents.
 #include <stdio.h>
 #include <stdbool.h>
 
