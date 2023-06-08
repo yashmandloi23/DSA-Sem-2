@@ -1,3 +1,4 @@
+// WAP to implement stack using linked list and run all operations using menu driven program.
 #include <stdio.h>
 #include <stdlib.h>
 
