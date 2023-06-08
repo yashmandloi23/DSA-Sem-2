@@ -1,3 +1,4 @@
+// WAP to  implement stack using array with 7 element stack.
 #include <stdio.h>
 #include <stdbool.h>
 
