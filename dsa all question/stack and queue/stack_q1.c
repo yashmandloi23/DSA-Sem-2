@@ -1,4 +1,3 @@
-// c progrm to make an stack using an array and perform all operation in it using menu driven switch case
 #include<stdio.h>
 #include<stdlib.h>
 #define MAX 5
