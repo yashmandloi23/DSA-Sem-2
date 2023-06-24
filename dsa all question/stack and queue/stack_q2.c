@@ -1,3 +1,4 @@
+// program to make stack snd perform all operation on it in switcch case menu driven program
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 4
